@@ -1,0 +1,23 @@
+[
+  {
+    "estado":"CERRADO",
+    "count":185,
+    "mean":95.76,
+    "min":-27,
+    "max":180
+  },
+  {
+    "estado":"EN_CURSO",
+    "count":147,
+    "mean":91.07,
+    "min":-24,
+    "max":179
+  },
+  {
+    "estado":"PROPUESTO",
+    "count":128,
+    "mean":94.83,
+    "min":-30,
+    "max":178
+  }
+]

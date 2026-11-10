@@ -1,0 +1,14 @@
+[
+  {
+    "estado":"CERRADO",
+    "cantidad":185
+  },
+  {
+    "estado":"EN_CURSO",
+    "cantidad":147
+  },
+  {
+    "estado":"PROPUESTO",
+    "cantidad":128
+  }
+]
