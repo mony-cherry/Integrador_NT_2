@@ -1,0 +1,74 @@
+id,nombre,nit,sector,contacto,correo,telefono,activa,correo_valido
+4b661609-3975-415f-836d-2beacd231768,Alfonso-Oviedo,3465787133,Logistica,Claudia Elizabeth Torres,mariatoro@torres.co,3183473829,True,True
+0feed5cf-b3e9-48d9-8ce4-efaf0ef2a927,"Arteaga, López and Contreras",5694544149,Logistica,Miguel Gil Vargas,josebuitrago@alvarez.net.co,3010618175,False,True
+e53c0375-f7d5-413f-acf8-bc6db662bf32,Ayala Inc,1168646225,Logistica,Sin contacto,cardonajohn@ramirez.com,3346791214,False,True
+9fc2630a-8333-4026-b94b-db64c815534d,Benavides-Perea,8164709006,Logistica,Sin contacto,agomez@fonseca-duarte.com,573312206815,False,True
+2f67be82-1e55-4219-8990-4039f72e9519,"Buitrago, Cortés and Rodríguez",9551240568,Logistica,Alexandra Giraldo Hurtado,camilo50@pena-zapata.net,3574384215,True,True
+280e450a-e984-48c5-8057-e9e69cc0703a,Buitrago-Martínez,5200461526,Logistica,Antonio Moisés Maldonado,ramirezcesar@moreno.com,573405786170,True,True
+74d7a21c-aca2-4398-bc0b-2cc3cf5a80b3,"CALDERÓN, BARBOSA AND GAMBOA",5626565045,Logistica,Jesús Daniel Londoño,miguelmarin@arenas-gutierrez.nom.co,573662991234,True,True
+1c521595-29ca-4626-ac9d-3a7828c31ae6,CARMONA LTD,9467232487,Logistica,Sin contacto,oscaravila@pineda.co,573608331819,False,True
+e605e007-2ff8-4b53-8c5c-4f66e41f9186,CASTRO-ORTIZ,2940572025,Logistica,Ximena Pineda,jackeline98@garcia-toro.co,573328182688,True,True
+d3f9dcbc-89ce-4903-9e9a-4586106ce249,Cardona PLC,9849027703,Logistica,Luz Paola Vergara,jorgegomez@buitrago.co,3101438889,True,True
+5d2ac3d2-fd99-4725-9943-5ac82c062f49,Carrillo-Triana,714163356,Logistica,Rafael José Roa,alexandracastillo@pinto.co,3553942373,True,True
+76bc313f-74ab-41a5-b013-482036b57e12,Castañeda Ltd,6567661825,Logistica,Andrea Alba Contreras,fredytovar@restrepo-pinzon.co,3863375243,True,True
+4292dc5f-ea85-4192-b82d-9a786fcd5088,"Cortés, Giraldo and Correa",6540515319,Logistica,Carlos Javier Quintero,alvaroduque@acosta.nom.co,573704303054,False,True
+45a0ca70-fbcf-4743-817f-bef3e0ec40bb,Díaz-Amaya,8777496903,Logistica,Lady Lorena Moreno Torres,kcampo@rubio.org,3812147853,True,True
+0c3221af-7e1a-4cf9-ae84-644a7c666583,Díaz-González,7139005329,Logistica,María Nidia Rojas Rojas,sofiasanchez@rodriguez.com,3842102053,True,True
+b3dbabb8-ed7d-45db-b40b-6f7e20d962f8,Díaz-Velásquez,1832538179,Logistica,Leonor Mery Ruiz Burbano,ecastro@herrera-reyes.co,573178847951,False,True
+8167dbe7-d0ed-47ee-8561-1658aa0cb094,"Fernández, Martínez and Torres",1037170586,Logistica,Yesid Andrés Garzón,ardilahernan@garces.com,3138633839,False,True
+5c41c6da-e243-4dbc-ae65-9bd4380ecc23,"Flórez, Mercado and Molina",2686025922,Logistica,Andrea Amaya Guerrero,miguel74@diaz.com,573940777809,True,True
+54e94d30-0ba3-4971-b29a-4182f4e31c8a,"Galindo, Ríos and Martínez",701601662,Logistica,Mario Alexander Figueroa Amaya,quirozalfonso@jaramillo-lopez.nom.co,3717477332,False,True
+685bfac2-6ac1-4920-ac8f-f48ec8e29df2,"Gallego, Álvarez and Rivas",2274954508,Logistica,María Palacios Palacio,salazarelena@bedoya.com,3537795995,False,True
+99140fe9-4cee-40c7-a512-f44a44d64321,García-Velásquez,537599004,Logistica,Jesús Medina Arias,murillobeatrizrincon.com,3586241502,True,False
+7c95e759-2d54-4a17-9d1a-265667934821,"González, Villamizar and Vargas",2181960013,Logistica,Johana María Ramírez Bernal,ltorres@montes-rodriguez.com,3654235116,True,True
+e151bc44-54d2-4bf9-a7dd-213ebda5e385,González-Rojas,9718707286,Logistica,Julio Julio Sandoval Álvarez,medinavictor@torres.nom.co,3180170462,False,True
+ee62646e-00d3-4a56-b396-198aa0af7f3f,Guzmán PLC,6291279908,Logistica,Luz Sofía Pabón,trianaivan@mejia.nom.co,3863765991,True,True
+f8ab096f-3866-43c0-9614-7832ab007260,Herrera and Sons,5556258815,Logistica,Cristina Marcela Vargas López,giovanny96@burgos.co,3953278774,False,True
+335d9438-97ec-4d65-836d-62af043f63e1,Ibarra-Acosta,1671902294,Logistica,Amalia Luz Cabrera,ivanflorez@jimenez-fernandez.co,3499091334,True,True
+814f334b-58ec-4643-9e84-6a0972dc1761,Lozano LLC,7359774688,Logistica,Horacio Ayala Meneses,omarmartinezpulido-cortes.com,3814124782,True,False
+f3f65000-9528-4275-a9f5-b63fdc1f3d34,López Group,9872050614,Logistica,Alberto José Pérez Jiménez,ortegamartha@ortega-lara.org,3186256527,True,True
+c5a8eef5-68da-46bf-9bfd-a649bc7c7d9a,López-Vallejo,7506068536,Logistica,Liliana María Granados,dario20@alarcon-ortega.com,3779010432,True,True
+ae1ae71d-7c22-41a8-b581-4eb2559c1952,"MARÍN, GÓMEZ AND BURBANO",3581128801,Logistica,Mary Ximena Leal Salazar,rojaspablo@guevara.nom.co,573207501102,True,True
+681b0bd5-f763-4766-b741-e99db1e4e704,MARÍN-GARCÍA,2856543102,Logistica,Rafael Ronald González Guevara,nrojas@velez-molano.net,3121727155,False,True
+a56bf327-96c6-489b-9b63-92ceefafef04,MEDINA INC,1780068114,Logistica,María Montenegro Giraldo,esthergutierrez@hernandez.com,3557784872,True,True
+11218fbb-40be-49d6-b680-6ad88d9b1053,MEDINA INC,3248413768,Logistica,Nelsy María López,amanda24@mora.com,3176563600,True,True
+162a75e1-de2a-4a32-aa7e-8b230c009e42,Martínez-Márquez,2356972521,Logistica,Enrique Elver Álvarez Martínez,wcastro@escobar.co,573129666676,False,True
+7b07ef42-05c3-4bf4-9be3-7a5782eb4f89,Mejía Group,4715437993,Logistica,Luis Jesús Núñez Quintero,varenas@quintero-ayala.net.co,3924593752,True,True
+43d4d362-c4d9-42a4-a03a-582b5252e50e,"Mena, Moreno and Martínez",8330165712,Logistica,Dahiana Mantilla,silviabetancur@acosta-ramirez.org,3540193802,True,True
+2f2aa865-49b3-492b-b8aa-1c298a8c690e,Mendoza-Martínez,5089935889,Logistica,Marina Juliana Ramos,jsanchezmartinez.co,3721753540,True,False
+43358237-27a3-4599-a9e5-d592b59088b3,"Montoya, Vega and Cruz",9688457831,Logistica,Jesús Camilo Sánchez Rodríguez,nubiacorreapacheco.co,3406493085,True,False
+e8a28d24-4867-4c4f-801a-691b1203615e,Montoya-Sánchez,8320679981,Logistica,Fernanda Ingrid Sánchez Quintero,djaramillo@castillo.nom.co,3227837693,True,True
+5329cd51-34d9-44e2-99ef-0c90a5f5f607,Moreno-Camacho,8567700518,Logistica,Sin contacto,leonorrivera@arango.co,573386557790,False,True
+0747df8e-c777-4780-88d1-0da85ca93f6b,"Muñoz, Arias and Zambrano",4105648149,Logistica,Esther Rocío Martínez,auramunoz@lara.nom.co,3138000307,True,True
+f26f4e6a-c692-4cb0-a00d-43f04af97822,Méndez and Sons,101702695,Logistica,Lucía Trujillo Ochoa,malzate@duran-rincon.org,3858800616,True,True
+8c1ca610-341c-4692-b7f5-04c9ec114167,"Nieto, Mendoza and Torres",8432225913,Logistica,Anderson Pinzón Ramos,lacosta@jaimes.com,573302992280,True,True
+bebd3829-cd91-41a4-8978-2a6e4859566a,Olaya-Cruz,3341016668,Logistica,Andrés José Pérez Sierra,vfranco@rendon.com,3339740148,True,True
+9b11e4c1-a226-467f-8820-24842e8aa64f,"Ortiz, Ardila and Arias",5216674676,Logistica,Luz Vélez Martínez,sandravallejo@arenas-buitrago.com,3965902771,True,True
+36882977-d55b-4cd5-a2ad-467794f58a33,PEÑA PLC,6632663416,Logistica,Beatriz Pilar Ávila Vélez,amparo84@diaz-garcia.com,3417974973,False,True
+2371d093-5b8c-4bb1-8aef-5b65ccab83e3,PÉREZ GROUP,7360260647,Logistica,Sin contacto,ssanchez@tamayo.nom.co,3805009788,True,True
+b6ee0856-7f10-4ab9-9b7d-65c6c90d5323,"RIVERA, VANEGAS AND VARGAS",778487392,Logistica,Alexander Felipe Salas,patriciasanchez@fonseca-rios.co,3086209593,False,True
+9df26f3a-7dd8-4bc4-b541-616af5b77cf6,ROA INC,6152809885,Logistica,Adriana Xiomara Ibarra,usalas@bolanos.org,3519832731,True,True
+dc5b8966-1ee0-4703-ab7f-16c9e5f2b774,"Reyes, Espitia and Sanabria",1640052427,Logistica,Julio González Garcés,luispalacio@cortes.co,3053315869,True,True
+fe7ded8d-03f5-4304-b1f8-e00879e65899,"Rincón, Alzate and Valderrama",7433800545,Logistica,Andrea Estrada Mora,quinteromartha@gonzalez.co,573455084289,False,True
+55fcfc25-55c0-46e5-bd3e-d6ab8ffdceb9,"Rincón, Tovar and Prieto",2269166978,Logistica,Alcides Estrada,duartemartha@espinosa.org,3627048281,True,True
+e6cfed6d-181e-416b-8018-caaafbd22287,Romero-Ordóñez,9389119083,Logistica,Dahiana Andrea Gallego Rodríguez,salgadomarco@ortega.net.co,3125663836,True,True
+c7e47387-33a5-43d7-b64e-bc5db7622141,"Rubio, Díaz and Rodríguez",3397189569,Logistica,Esther Saavedra,xiomara60@ruiz.com,573824224124,False,True
+d387a35c-e649-46ba-b8b1-e412ce54d3f3,"Ruiz, Ortiz and Rodríguez",9304078593,Logistica,Luz Hoyos Ortiz,cabreramarlon@sanabria.com,3239559059,True,True
+b20a1c8a-a9ca-4ee9-9dd9-0c84fcc84286,SILVA GROUP,7808562718,Logistica,Alexander José Gil Rivera,valenciadavid@diaz-ortiz.org,3795527636,True,True
+2c1de787-b8df-46e8-8116-f46977bc5164,Salazar-León,6270661498,Logistica,Yaneth Díaz Flórez,marlene68@ramos.net,3230085766,False,True
+5381a1e3-2b4e-4f8f-8906-06f48bbf5939,Salazar-López,8499261891,Logistica,Luis López,albertocastano@quiroz.com,3087375300,True,True
+5d511a87-bc6e-44b9-ba11-ae340ce1ee01,"Suárez, Valencia and López",730337933,Logistica,Sin contacto,yennyluna@morales.co,3081247395,True,True
+e4d218ff-4907-4e30-8f60-3db43df79423,Sánchez and Sons,3386559630,Logistica,Graciela Milena Sánchez Vargas,omar89@rojas-garcia.co,3912868578,True,True
+202328e8-901f-487e-8f90-73045dc0ee35,"Sánchez, Núñez and Perea",7842701039,Logistica,María Daniela Quintero Ávila,flordiaz@martinez-sanchez.nom.co,3218515691,True,True
+91699441-6094-4e56-a9a2-76a8f150037e,"Sánchez, Vargas and Escobar",2011669183,Logistica,Juan Osorio Aguirre,uorozco@gallego-salgado.com,573195243640,False,True
+f195e9f5-68d5-44ea-920a-4b7a5ec4619b,Sánchez-Barrera,6671168457,Logistica,Alexander José Perdomo Ardila,sacevedo@gaitan-rosero.co,3363745458,True,True
+f1d8098f-5b3b-41fc-bbdc-3722ff4b5bc3,TORRES LTD,2309821506,Logistica,Hugo Trujillo,duranjesusmartinez.co,3761847230,True,False
+24a96a67-37f1-463b-9de2-04e8a4f44a2a,Tamayo-Jiménez,7786603242,Logistica,Sin contacto,nvalderrama@bautista-serrano.com,3672434266,True,True
+47e4562c-12ee-45fe-84d8-324f51f81015,"Valencia, Caro and Hernández",970026876,Logistica,Helena Camila García,galindovictor@sandoval-romero.co,573956201753,False,True
+3300f080-1c7f-4aa5-9db0-b97e4f3bcdfa,"Valencia, Castro and Hoyos",4328309652,Logistica,Teresa Bolívar,eliecer66@gomez.net,3538758428,True,True
+50947b38-f2ee-4208-80b9-6cf9186caead,"Valencia, Pérez and Martínez",6811775891,Logistica,César Esneider Gómez Páez,yineth00sanabria-osorio.com,3771159212,False,False
+0d733caa-8490-4179-b8ff-82c3ce13c93d,"Vera, Caro and Córdoba",6636186371,Logistica,Julián Daniel Lara,perezjavier@gomez.com.co,3702316433,True,True
+9e02b860-1500-4b3d-b294-77f484385be7,Vélez-Castellanos,2720634591,Logistica,Ana Rocío Tamayo,edgarduque@cardenas-arboleda.com,3429543165,False,True
+5f8469ce-ee7e-4f27-8db6-a9c6da50277c,ZAPATA INC,3791805526,Logistica,Manuel Carrillo Castellanos,rodriguezpatricia@rojas-caballero.co,573848666188,True,True
+39fa6ffa-07fe-4040-999f-4193aa32d629,"Álvarez, Arévalo and Sánchez",379176936,Logistica,Diego Carlos Pacheco Galindo,patinomarinadelgado.com,573727889579,True,False
+a98f8d21-8096-4447-b1ff-c1cbe4367a53,Álvarez-Rivera,7002842762,Logistica,Esteban Reyes,jaramillojackeline@duque.com,3806479695,False,True
