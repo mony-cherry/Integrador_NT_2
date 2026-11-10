@@ -1,0 +1,52 @@
+[
+  {
+    "nombre":"Alias fuga mollitia inventore aliquam facilis ut",
+    "duracion_dias":180,
+    "estado":"CERRADO"
+  },
+  {
+    "nombre":"Iure iste fugiat non asperiores consequatur",
+    "duracion_dias":179,
+    "estado":"CERRADO"
+  },
+  {
+    "nombre":"Sapiente minima eos aliquid asperiores",
+    "duracion_dias":179,
+    "estado":"EN_CURSO"
+  },
+  {
+    "nombre":"Ab consequuntur aperiam id rem",
+    "duracion_dias":178,
+    "estado":"CERRADO"
+  },
+  {
+    "nombre":"Fugit aliquam iusto dicta",
+    "duracion_dias":178,
+    "estado":"PROPUESTO"
+  },
+  {
+    "nombre":"Ad eius dolore qui",
+    "duracion_dias":178,
+    "estado":"CERRADO"
+  },
+  {
+    "nombre":"Fugit modi facere ea maiores",
+    "duracion_dias":177,
+    "estado":"PROPUESTO"
+  },
+  {
+    "nombre":"Reprehenderit recusandae animi nulla minus quasi",
+    "duracion_dias":177,
+    "estado":"CERRADO"
+  },
+  {
+    "nombre":"Similique sint doloremque praesentium",
+    "duracion_dias":177,
+    "estado":"PROPUESTO"
+  },
+  {
+    "nombre":"Possimus dignissimos odit minima illum vel nostrum",
+    "duracion_dias":177,
+    "estado":"CERRADO"
+  }
+]
